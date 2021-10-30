@@ -1,2 +1,2 @@
 # coba-github
-Repo pertama di github
+My first Github repo
