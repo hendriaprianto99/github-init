@@ -4,5 +4,5 @@ Coba branch sesuai materi dari pak Sandhika
 - asf
 - asksksk
 - baris tambahan juga
-- Ini baris tambahan branch 2
-- Ini baris tambahan branch 2
+- Ini tambahan baris dari branch 1
+- Ini tambahan baris dari branch 1 yang kedua
